@@ -1,3 +1,7 @@
+# This Python script enables interactive conversations with a virtual assistant powered by OpenAI's GPT-3.5-turbo. Users can 
+# input messages, and the assistant responds with context-aware text. The conversation is dynamically managed to stay within 
+# token limits, providing an engaging AI-driven chat experience.
+
 import tiktoken
 import openai
 import os
