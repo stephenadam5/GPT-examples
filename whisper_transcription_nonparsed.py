@@ -1,3 +1,7 @@
+# This Python script uses Microsoft's Azure Whisper ASR model for accurate batch speech-to-text transcription. Configure 
+# properties, transcribe single or multiple audio files efficiently, and monitor transcription status. Ideal for high-quality
+# audio transcription at scale with the Whisper ASR model.
+
 import logging
 import sys
 import requests
