@@ -1,5 +1,11 @@
 # Quickstart taken from: https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-to-text?tabs=windows%2Cterminal&pivots=programming-language-python
 
+# This Python script showcases the utilization of Microsoft Azure Cognitive Services Speech Service for real-time speech recognition 
+# and translation. It allows users to speak into their microphone, and the service recognizes the speech in one language ('en-GB' in
+# this example) and translates it into another target language ('fr' in this example). The code offers a quick and easy way to get
+# started with speech-to-text translation using Azure's powerful speech services.
+
+
 import azure.cognitiveservices.speech as speechsdk
 
 # Set your own subscription key and service region for the Speech Service
