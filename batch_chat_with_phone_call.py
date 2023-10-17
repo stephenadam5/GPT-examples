@@ -1,3 +1,7 @@
+# This repository contains a Python script for audio transcription and AI-driven chat. It combines the Microsoft 
+# Speech Service for transcription and OpenAI's GPT-3.5-turbo for interactive conversations. The user-friendly Tkinter-based 
+# interface makes it easy to use. Great for transcription services and chatbot development.
+
 # Import modules
 import openai
 import logging
